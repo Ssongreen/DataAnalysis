@@ -14,7 +14,8 @@
 ```
 
 ## 🐼데이터 문서 파일 
-![개인프로젝트](https://github.com/Ssongreen/DataAnalysis/assets/134990843/1e0f61f1-f522-4650-ac13-3e125dcb8dd2)
+![개인프로젝트001](https://github.com/Ssongreen/DataAnalysis/assets/134990843/957af2a6-0eb9-4c0c-a73a-f08004ad28ad)
+![개인프로젝트002](https://github.com/Ssongreen/DataAnalysis/assets/134990843/acc1bdfc-2b50-42c2-8524-82221b1cf58d)
 
 ## 📉 데이터 분석 결과 보고서 
 ![데이터 분석](https://github.com/Ssongreen/DataAnalysis/assets/134990843/eafe52d8-3f61-4c1b-bdbf-6c229f737305)
